@@ -143,32 +143,20 @@ https://github.com/PoomSmart/Return-YouTube-Dislikes/tree/main/layout/Library/Ap
 // Theme
 "THEME_OPTIONS" = "Theme Options";
 
+"DEFAULT_THEME" = "Default";
+"DEFAULT_THEME_DESC" = "Default dark(er) theme of YouTube. App restart is required.";
+
 "OLED_DARK_THEME" = "OLED dark theme (Experimental)";
-"OLED_DARK_THEME_2" = "OLED dark theme";
 "OLED_DARK_THEME_DESC" = "True dark theme. Might not work correctly in some cases. App restart is required after you enable/disable this option.";
 
 "OLD_DARK_THEME" = "Old dark theme";
 "OLD_DARK_THEME_DESC" = "Old YouTube's dark theme (grey theme). App restart is required.";
-
-"DEFAULT_THEME" = "Default";
-"DEFAULT_THEME_DESC" = "Default dark(er) theme of YouTube. App restart is required.";
 
 "OLED_KEYBOARD" = "OLED Keyboard (Experimental)";
 "OLED_KEYBOARD_DESC" = "Might not work correctly in some cases. App restart is required.";
 
 "LOW_CONTRAST_MODE" = "Low Contrast Mode";
 "LOW_CONTRAST_MODE_DESC" = "This option will Low Contrast of the texts and buttons just like how the old YouTube Interface was. App restart is required.";
-
-"LCM_CHOOSE_COLOR" = "Low contrast text color";
-"DEFAULT_UI" = "Default";
-"RED_UI" = "Red UI";
-"BLUE_UI" = "Blue UI";
-"GREEN_UI" = "Green UI";
-"YELLOW_UI" = "Yellow UI";
-"ORANGE_UI" = "Orange UI";
-"PURPLE_UI" = "Purple UI";
-"VIOLET_UI" = "Violet UI";
-"PINK_UI" = "Pink UI";
 
 // Miscellaneous
 "MISCELLANEOUS" = "Miscellaneous";
@@ -196,10 +184,6 @@ https://github.com/PoomSmart/Return-YouTube-Dislikes/tree/main/layout/Library/Ap
 
 "CAST_CONFIRM" = "Confirm alert before casting (YTCastConfirm)";
 "CAST_CONFIRM_DESC" = "Show a confirm alert before casting to prevent accidentally hijacking TV.";
-"CASTING" = "Castings";
-"MSG_ARE_YOU_SURE" = "Are you sure you want to start casting?";
-"MSG_YES" = "Yes";
-"MSG_CANCEL" = "Cancel";
 
 "DISABLE_HINTS" = "Disable hints";
 "DISABLE_HINTS_DESC" = "Disable feature hints from YouTube that usually display when the app is freshly installed.";
@@ -221,9 +205,6 @@ https://github.com/PoomSmart/Return-YouTube-Dislikes/tree/main/layout/Library/Ap
 
 "YT_RE_EXPLORE" = "Replace Shorts tab with Explore tab (YTReExplore)";
 "YT_RE_EXPLORE_DESC" = "App restart is required.";
-
-"YT_SPEED" = "Enable YTSpeed";
-"YT_SPEED_DESC" = "Enable YTSpeed to have more Playback Speed Options. App restart is required.";
 
 "ENABLE_FLEX" = "Enable FLEX";
 "ENABLE_FLEX_DESC" = "Enable FLEX for debugging (not recommended). Leave this off unless you know what you are doing.";
