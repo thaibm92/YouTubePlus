@@ -3,184 +3,198 @@
 "VERSION_CHECK" = "Nhấn để kiểm tra cập nhật!";
 
 // Video player options
-"VIDEO_PLAYER_OPTIONS" = "Tùy chọn trình phát video";
+"VIDEO_PLAYER_OPTIONS" = "Tuỳ chọn trình phát Video";
 
-"TAP_TO_SKIP" = "Tắt nhấn để bỏ qua";
-"TAP_TO_SKIP_DESC" = "Tắt tính năng nhấn để bỏ qua trong trình phát video. Khởi động lại ứng dụng là bắt buộc.";
+"AUTO_FULLSCREEN" = "Auto Full Screen (YTAutoFullScreen)";
+"AUTO_FULLSCREEN_DESC" = "Autoplay videos at full screen.";
 
-"SNAP_TO_CHAPTER" = "Tắt Snap to chapter";
-"SNAP_TO_CHAPTER_DESC" = "Tắt tính năng tự động chuyển sang chương khi tìm kiếm trong video. Bắt buộc khởi động lại ứng dụng.";
+"DISABLE_DOUBLE_TAP_TO_SKIP" = "Disable Double tap to skip";
+"DISABLE_DOUBLE_TAP_TO_SKIP_DESC" = "Disable the double tap to skip feature in the video player. App restart is required.";
 
-"PINCH_TO_ZOOM" = "Tắt chụm để thu phóng";
-"PINCH_TO_ZOOM_DESC" = "Bắt buộc khởi động lại ứng dụng";
+"SNAP_TO_CHAPTER" = "Disable snap to chapter";
+"SNAP_TO_CHAPTER_DESC" = "Disable auto snap to chapter when seeking in videos. App restart is required.";
 
-"YT_MINIPLAYER" = "Bật Trình phát thu nhỏ cho tất cả các video trên YouTube";
-"YT_MINIPLAYER_DESC" = "Video dành cho trẻ em chẳng hạn.";
+"PINCH_TO_ZOOM" = "Disable pinch to zoom";
+"PINCH_TO_ZOOM_DESC" = "App restart is required.";
+
+"YT_MINIPLAYER" = "Enable the Miniplayer for all YouTube videos";
+"YT_MINIPLAYER_DESC" = "Kid videos for example.";
 
 "STOCK_VOLUME_HUD" = "Use iOS stock volume HUD";
 "STOCK_VOLUME_HUD_DESC" = "";
 
 // Video controls overlay options
-"VIDEO_CONTROLS_OVERLAY_OPTIONS" = "Tùy chọn lớp phủ điều khiển video";
+"VIDEO_CONTROLS_OVERLAY_OPTIONS" = "Tuỳ chọn cài đặt cho Video";
 
-"HIDE_CHANNEL_WATERMARK" = "Ẩn hình mờ kênh";
-"HIDE_CHANNEL_WATERMARK_DESC" = "Ẩn hình mờ của kênh trong lớp phủ điều khiển video. Khởi động lại ứng dụng là bắt buộc.";
+"ENABLE_SHARE_BUTTON" = "Enable Share Button";
+"ENABLE_SHARE_BUTTON_DESC" = "Enable the Share Button in video controls overlay.";
 
-"HIDE_SHADOW_OVERLAY_BUTTONS" = "Ẩn các nút lớp phủ bóng";
-"HIDE_SHADOW_OVERLAY_BUTTONS_DESC" = "Ẩn lớp phủ bóng trên các nút Phát/Tạm dừng, Trước đó và Tiếp theo";
+"ENABLE_SAVE_TO_PLAYLIST_BUTTON" = "Enable 'Save To Playlist' Button";
+"ENABLE_SAVE_TO_PLAYLIST_BUTTON_DESC" = "Enable the 'Save To Playlist' Button in video controls overlay.";
 
-"HIDE_DARK_OVERLAY_BACKGROUND" = "Ẩn nền lớp phủ tối";
-"HIDE_DARK_OVERLAY_BACKGROUND_DESC" = "Ẩn nền lớp phủ tối của trình phát video.";
+"HIDE_AUTOPLAY_SWITCH" = "Hide Autoplay switch";
+"HIDE_AUTOPLAY_SWITCH_DESC" = "Hide the Autoplay switch in video controls overlay.";
 
-"RED_PROGRESS_BAR" = "Thanh tiến trình màu đỏ";
-"RED_PROGRESS_BAR_DESC" = "Mang lại thanh tiến trình màu đỏ. Khởi động lại ứng dụng là bắt buộc.";
+"HIDE_SUBTITLES_BUTTON" = "Hide Subtitles button";
+"HIDE_SUBTITLES_BUTTON_DESC" = "Hide the Subtitles button in video controls overlay.";
 
-"DONT_EAT_MY_CONTENT" = "Ngăn Notch/Đảo trên nội dung video 2:1 (DontEatMyContent)";
-"DONT_EAT_MY_CONTENT_DESC" = "Ngăn notch/Dynamic Island nghiền ngẫm nội dung video 2:1 trên YouTube. Khởi động lại ứng dụng là bắt buộc.";
+"HIDE_HUD_MESSAGES" = "Hide HUD Messages";
+"HIDE_HUD_MESSAGES_DESC" = "Example: CC is turned on/off, Video loop is on,...";
 
-"HIDE_HEATWAVES" = "Ẩn sóng nhiệt";
-"HIDE_HEATWAVES_DESC" = "Ẩn Sóng nhiệt trong trình phát video. Khởi động lại ứng dụng là bắt buộc.";
+"HIDE_PAID_PROMOTION_CARDS" = "Hide Paid Promotion cards";
+"HIDE_PAID_PROMOTION_CARDS_DESC" = "Hide the 'Includes Paid Promotions' card in some videos.";
+
+"HIDE_CHANNEL_WATERMARK" = "Hide Channel Watermark";
+"HIDE_CHANNEL_WATERMARK_DESC" = "Hide channel's watermark in video controls overlay. App restart is required.";
+
+"HIDE_SHADOW_OVERLAY_BUTTONS" = "Hide Shadow Overlay Buttons";
+"HIDE_SHADOW_OVERLAY_BUTTONS_DESC" = "Hide the Shadow Overlay on the Play/Pause, Previous, Next, Forward & Rewind Buttons.";
+
+"HIDE_PREVIOUS_AND_NEXT_BUTTON" = "Hide Previous and Next button";
+"HIDE_PREVIOUS_AND_NEXT_BUTTON_DESC" = "Hide Previous and Next button in video controls overlay.";
+
+"REPLACE_PREVIOUS_NEXT_BUTTON" = "Replace Previous and Next Button";
+"REPLACE_PREVIOUS_NEXT_BUTTON_DESC" = "Replace Previous and Next buttons with Fast forward and Rewind buttons. App restart is required.";
+
+"RED_PROGRESS_BAR" = "Red progress bar";
+"RED_PROGRESS_BAR_DESC" = "Bring back the red progress bar. App restart is required.";
+
+"DISABLE_VIDEO_PLAYER_ZOOM" = "Disable the Zoom Feature in the Video Player. App restart is required.";
+"DISABLE_VIDEO_PLAYER_ZOOM_DESC" = "Disables the Zoom Feature on both iPhone & iPad.";
+
+"HIDE_HOVER_CARD" = "Hide End screens hover cards (YTNoHoverCards)";
+"HIDE_HOVER_CARD_DESC" = "Hide creator End screens (thumbnails) at the end of videos.";
+
+"HIDE_RIGHT_PANEL" = "Hide the right panel in fullscreen mode";
+"HIDE_RIGHT_PANEL_DESC" = "App restart is required.";
+
+"DONT_EAT_MY_CONTENT" = "Prevent Notch/Island on 2:1 Video Content (DontEatMyContent)";
+"DONT_EAT_MY_CONTENT_DESC" = "Prevent the notch/Dynamic Island from munching on 2:1 video content in YouTube. App restart is required.";
+
+"HIDE_HEATWAVES" = "Hide Heatwaves";
+"HIDE_HEATWAVES_DESC" = "Hides the Heatwaves in the video player. App restart is required.";
+
+"HIDE_DARK_OVERLAY_BACKGROUND" = "Hide Dark Overlay Background";
+"HIDE_DARK_OVERLAY_BACKGROUND_DESC" = "Hide video player's dark overlay background.";
+
+// Hide Pivot Bar Tabs
+"HIDE_PIVOT_BAR_TABS" = "Tuỳ chọn Main Tabs";
+
+"HIDE_EXPLORE_TAB" = "Hide 'Explore' Tab";
+"HIDE_EXPLORE_TAB_DESC" = "Hide the Explore Tab in the Pivot Bar.";
+
+"HIDE_SHORTS_TAB" = "Hide 'Shorts' Tab";
+"HIDE_SHORTS_TAB_DESC" = "Hide the Explore Tab in the Pivot Bar.";
+
+"HIDE_UPLOAD_TAB" = "Hide 'Upload' Tab";
+"HIDE_UPLOAD_TAB_DESC" = "Hide the Explore Tab in the Pivot Bar.";
+
+"HIDE_SUBSCRIPTIONS_TAB" = "Hide 'Subscriptions' Tab";
+"HIDE_SUBSCRIPTIONS_TAB_DESC" = "Hide the Subscriptions Tab in the Pivot Bar.";
+
+"HIDE_LIBRARY_TAB" = "Hide 'Library' Tab";
+"HIDE_LIBRARY_TAB_DESC" = "Hide the Library Tab in the Pivot Bar.";
 
 // Shorts controls overlay options
-"SHORTS_CONTROLS_OVERLAY_OPTIONS" = "Tùy chọn hiển thị trong Shorts";
+"SHORTS_CONTROLS_OVERLAY_OPTIONS" = "Tuỳ chọn cài đặt cho Video Shorts";
 
-"HIDE_SHORTS_CHANNEL_AVATAR" = "Ẩn hình đại diện của kênh Shorts";
+"HIDE_SHORTS_VIDEOS" = "Hide Shorts videos";
+"HIDE_SHORTS_VIDEOS_DESC" = "Hide Shorts videos in Homepage, Recommended...";
+
+"HIDE_SHORTS_CHANNEL_AVATAR" = "Hide Shorts channel's avatar";
 "HIDE_SHORTS_CHANNEL_AVATAR_DESC" = "";
 
-"HIDE_SHORTS_LIKE_BUTTON" = "Ẩn nút thích Shorts";
+"HIDE_SHORTS_LIKE_BUTTON" = "Hide Shorts like button";
 "HIDE_SHORTS_LIKE_BUTTON_DESC" = "";
 
-"HIDE_SHORTS_DISLIKE_BUTTON" = "Ẩn nút không thích Shorts";
+"HIDE_SHORTS_DISLIKE_BUTTON" = "Hide Shorts dislike button";
 "HIDE_SHORTS_DISLIKE_BUTTON_DESC" = "";
 
-"HIDE_SHORTS_COMMENT_BUTTON" = "Ẩn nút bình luận Shorts";
+"HIDE_SHORTS_COMMENT_BUTTON" = "Hide Shorts comment button";
 "HIDE_SHORTS_COMMENT_BUTTON_DESC" = "";
 
-"HIDE_SHORTS_REMIX_BUTTON" = "Ẩn nút phối lại video ngắn";
+"HIDE_SHORTS_REMIX_BUTTON" = "Hide Shorts remix button";
 "HIDE_SHORTS_REMIX_BUTTON_DESC" = "";
 
-"HIDE_SHORTS_SHARE_BUTTON" = "Ẩn nút chia sẻ Shorts";
+"HIDE_SHORTS_SHARE_BUTTON" = "Hide Shorts share button";
 "HIDE_SHORTS_SHARE_BUTTON_DESC" = "";
 
-"HIDE_SUBCRIPTIONS" = "Hide Subscriptions button";
-"HIDE_SUBCRIPTIONS_DESC" = "Hide Subscriptions button which shows up when paused.";
+"HIDE_SUPER_THANKS" = "Hide 'Buy Super Thanks' banner";
+"HIDE_SUPER_THANKS_DESC" = "Hide the 'Buy Super Thanks' banner in Shorts.";
 
-"HIDE_SUPER_THANKS" = "Ẩn biểu ngữ 'Mua hàng Vô cùng cảm ơn'";
-"HIDE_SUPER_THANKS_DESC" = "Ẩn biểu ngữ "Mua hàng Vô cùng cảm ơn" trong Shorts.";
-
-"DISABLE_RESUME_TO_SHORTS" = "Tắt sơ yếu lý lịch cho Shorts";
-"DISABLE_RESUME_TO_SHORTS_DESC" = "Nếu bạn đóng YouTube khi đang xem các video ngắn, thì các video ngắn đó sẽ không tự động phát vào lần tới khi bạn mở YouTube.";
+"HIDE_SUBSCRIPTIONS" = "Hide Subscriptions button";
+"HIDE_SUBSCRIPTIONS_DESC" = "Hide Subscriptions button which shows up when paused.";
 
 // Theme
-"THEME_OPTIONS" = "Tùy chọn chủ đề";
-
-"OLED_DARK_THEME" = "OLED dark theme (Experimental)";
-"OLED_DARK_THEME_2" = "OLED dark theme";
-"OLED_DARK_THEME_DESC" = "Chủ đề tối thực sự. Có thể không hoạt động chính xác trong một số trường hợp. Cần phải khởi động lại ứng dụng sau khi bạn bật/tắt tùy chọn này.";
-
-"OLD_DARK_THEME" = "Old dark theme";
-"OLD_DARK_THEME_DESC" = "Chủ đề tối cũ của YouTube (chủ đề màu xám). Khởi động lại ứng dụng là bắt buộc.";
+"THEME_OPTIONS" = "Tuỳ chọn giao diện";
 
 "DEFAULT_THEME" = "Default";
-"DEFAULT_THEME_DESC" = "Chủ đề (er) tối mặc định của YouTube. Khởi động lại ứng dụng là bắt buộc.";
+"DEFAULT_THEME_DESC" = "Default dark(er) theme of YouTube. App restart is required.";
+
+"OLED_DARK_THEME" = "OLED dark theme (Experimental)";
+"OLED_DARK_THEME_DESC" = "True dark theme. Might not work correctly in some cases. App restart is required after you enable/disable this option.";
+
+"OLD_DARK_THEME" = "Old dark theme";
+"OLD_DARK_THEME_DESC" = "Old YouTube's dark theme (grey theme). App restart is required.";
 
 "OLED_KEYBOARD" = "OLED Keyboard (Experimental)";
-"OLED_KEYBOARD_DESC" = "Có thể không hoạt động chính xác trong một số trường hợp. Khởi động lại ứng dụng là bắt buộc.";
+"OLED_KEYBOARD_DESC" = "Might not work correctly in some cases. App restart is required.";
 
-"LOW_CONTRAST_MODE" = "Chế độ tương phản thấp";
-"LOW_CONTRAST_MODE_DESC" = "Tùy chọn này sẽ có Độ tương phản thấp của văn bản và các nút giống như Giao diện YouTube cũ. Khởi động lại ứng dụng là bắt buộc.";
-
-"LCM_CHOOSE_COLOR" = "Low contrast text color";
-"DEFAULT_UI" = "Default";
-"RED_UI" = "Red UI";
-"BLUE_UI" = "Blue UI";
-"GREEN_UI" = "Green UI";
-"YELLOW_UI" = "Yellow UI";
-"ORANGE_UI" = "Orange UI";
-"PURPLE_UI" = "Purple UI";
-"PINK_UI" = "Pink UI";
+"LOW_CONTRAST_MODE" = "Low Contrast Mode";
+"LOW_CONTRAST_MODE_DESC" = "This option will Low Contrast of the texts and buttons just like how the old YouTube Interface was. App restart is required.";
 
 // Miscellaneous
-"MISCELLANEOUS" = "Các tuỳ chọn khác";
+"MISCELLANEOUS" = "Tuỳ chọn khác";
 
-"CAST_CONFIRM" = "Xác nhận thông báo trước khi truyền (YTCastConfirm)";
-"CAST_CONFIRM_DESC" = "Hiển thị cảnh báo xác nhận trước khi truyền để tránh vô tình chiếm quyền điều khiển TV.";
-"CASTING" = "Castings";
-"MSG_ARE_YOU_SURE" = "Bạn có chắc chắn muốn bắt đầu truyền không?";
-"MSG_YES" = "Yes";
-"MSG_CANCEL" = "Cancel";
-
-"DISABLE_HINTS" = "Tắt gợi ý";
-"DISABLE_HINTS_DESC" = "Tắt gợi ý tính năng từ YouTube thường hiển thị khi ứng dụng mới được cài đặt.";
-
-"ENABLE_YT_STARTUP_ANIMATION" = "Bật Aimation khi khởi động YouTube";
+"ENABLE_YT_STARTUP_ANIMATION" = "Enable YouTube startup animation";
 "ENABLE_YT_STARTUP_ANIMATION_DESC" = "";
+
+"HIDE_YOUTUBE_LOGO" = "Hide YouTube Logo";
+"HIDE_YOUTUBE_LOGO_DESC" = "this will Hide the YouTube Logo on the top left of the Interface. App restart is required.";
 
 "STICK_NAVIGATION_BAR" = "Stick Navigation Bar";
 "STICK_NAVIGATION_BAR_DESC" = "Enable to make the Navigation Bar stay on the App when scrolling.";
 
-"HIDE_CHIP_BAR" = "Ẩn Upper bar";
-"HIDE_CHIP_BAR_DESC" = "Ẩn thanh trên trong nguồn cấp dữ liệu Trang chủ (Xu hướng, Âm nhạc, Trò chơi...) và nguồn cấp dữ liệu Đăng ký (Tất cả video, Tiếp tục xem...).";
+"HIDE_CHIP_BAR" = "Hide the Upper bar";
+"HIDE_CHIP_BAR_DESC" = "Hide Upper bar in the Home feeds (Trends, Music, Gaming...) and Subscription feeds (All videos, Continue watching...).";
 
-"NEW_MINIPLAYER_STYLE" = "Kiểu thanh trình phát mini mới (BigYTMiniPlayer)";
-"NEW_MINIPLAYER_STYLE_DESC" = "Khởi động lại ứng dụng là bắt buộc.";
-
-"REPLACE_PREVIOUS_NEXT_BUTTON" = "Thay nút Previous và Next";
-"REPLACE_PREVIOUS_NEXT_BUTTON_DESC" = "Thay thế các nút Trước và Tiếp theo bằng các nút Tua đi và Tua lại. Khởi động lại ứng dụng là bắt buộc.";
-
-"HIDE_PREVIOUS_AND_NEXT_BUTTON" = "Ẩn nút Trước và Tiếp theo";
-"HIDE_PREVIOUS_AND_NEXT_BUTTON_DESC" = "Ẩn nút Trước đó và Tiếp theo trong lớp phủ điều khiển video.";
-
-"HIDE_SHORTS_VIDEOS" = "Ẩn video Shorts";
-"HIDE_SHORTS_VIDEOS_DESC" = "Ẩn video ngắn trong Trang chủ, được đề xuất...";
-
-"HIDE_CAST_BUTTON" = "Ẩn nút Truyền";
-"HIDE_CAST_BUTTON_DESC" = "Khởi động lại ứng dụng là bắt buộc.";
-
-"HIDE_HOVER_CARD" = "Ẩn thẻ di chuột trên Màn hình kết thúc (YTNoHoverCards)";
-"HIDE_HOVER_CARD_DESC" = "Ẩn màn hình kết thúc (hình thu nhỏ) của người tạo ở cuối video.";
-
-"HIDE_RIGHT_PANEL" = "Ẩn bảng điều khiển bên phải ở chế độ toàn màn hình";
-"HIDE_RIGHT_PANEL_DESC" = "Khởi động lại ứng dụng là bắt buộc.";
-
-"HIDE_SUBTITLES_BUTTON" = "Ẩn nút phụ đề";
-"HIDE_SUBTITLES_BUTTON_DESC" = "Ẩn nút Phụ đề trong lớp phủ điều khiển video.";
-
-"HIDE_AUTOPLAY_SWITCH" = "Ẩn nút Tự động phát";
-"HIDE_AUTOPLAY_SWITCH_DESC" = "Ẩn nút Tự động phát trong lớp phủ điều khiển video.";
-
-"AUTO_FULLSCREEN" = "Tự động toàn màn hình (YTAutoFullScreen)";
-"AUTO_FULLSCREEN_DESC" = "Tự động phát video ở chế độ toàn màn hình.";
-
-"HIDE_HUD_MESSAGES" = "Ẩn tin nhắn HUD";
-"HIDE_HUD_MESSAGES_DESC" = "Ví dụ: Bật/tắt CC, Bật vòng lặp video,...";
-
-"HIDE_PAID_PROMOTION_CARDS" = "Ẩn thẻ Khuyến mại trả phí";
-"HIDE_PAID_PROMOTION_CARDS_DESC" = "Ẩn thẻ "Bao gồm quảng cáo trả phí" trong một số video.";
-
-"HIDE_NOTIFICATION_BUTTON" = "Ẩn nút Thông báo trong thanh Điều hướng";
-"HIDE_NOTIFICATION_BUTTON_DESC" = "";
-
-"HIDE_SPONSORBLOCK_BUTTON" = "Ẩn nút iSponsorBlock trong thanh Điều hướng";
-"HIDE_SPONSORBLOCK_BUTTON_DESC" = "";
-
-"HIDE_MODERN_INTERFACE" = "Ẩn giao diện hiện đại (YTNoModernUI)";
-"HIDE_MODERN_INTERFACE_DESC" = "Bật tính năng này để ẩn mọi Thành phần hiện đại do YouTube thêm vào. Loại bỏ Chế độ môi trường xung quanh, Thiết kế bo tròn và hơn thế nữa. Khởi động lại ứng dụng là bắt buộc.";
-
-"HIDE_YOUTUBE_LOGO" = "Ẩn logo YouTube";
-"HIDE_YOUTUBE_LOGO_DESC" = "Thao tác này sẽ Ẩn Logo YouTube ở trên cùng bên trái của Giao diện. Khởi động lại ứng dụng là bắt buộc.";
-
-"DISABLE_WIFI_RELATED_SETTINGS" = "Tắt cài đặt liên quan đến Wifi";
-"DISABLE_WIFI_RELATED_SETTINGS_DESC" = "Tắt các phần liên quan đến Wifi (Thông báo, Ứng dụng được kết nối, Quyền riêng tư & Trò chuyện trực tiếp, v.v.) trong Menu Cài đặt. Khởi động lại ứng dụng là bắt buộc.";
-
-"YT_RE_EXPLORE" = "Thay thế tab Shorts bằng tab Khám phá (YTReExplore)";
-"YT_RE_EXPLORE_DESC" = "Khởi động lại ứng dụng là bắt buộc.";
+"HIDE_MODERN_INTERFACE" = "Hide Modern Interface (YTNoModernUI)";
+"HIDE_MODERN_INTERFACE_DESC" = "Toggle this on to hide any Modern Element added by YouTube. Removes Ambient Mode, Rounded Design & More. App restart is required.";
 
 "IPAD_LAYOUT" = "iPad Layout";
-"IPAD_LAYOUT_DESC" = "Chỉ sử dụng tùy chọn này nếu bạn muốn có Bố cục iPad trên iPhone/iPod hiện tại của mình. Khởi động lại ứng dụng là bắt buộc.";
+"IPAD_LAYOUT_DESC" = "only use this if you want to have the iPad Layout on your current iPhone/iPod. App restart is required.";
 
 "IPHONE_LAYOUT" = "iPhone Layout";
-"IPHONE_LAYOUT_DESC" = "Chỉ sử dụng cái này nếu bạn muốn có Bố cục iPhone trên iPad hiện tại của mình. Khởi động lại ứng dụng là bắt buộc.";
+"IPHONE_LAYOUT_DESC" = "only use this if you want to have the iPhone Layout on your current iPad. App restart is required.";
 
-"ENABLE_FLEX" = "Kích hoạt FLEX";
-"ENABLE_FLEX_DESC" = "Bật FLEX để gỡ lỗi (không khuyến nghị). Bỏ qua điều này trừ khi bạn biết những gì bạn đang làm.";
+"CAST_CONFIRM" = "Confirm alert before casting (YTCastConfirm)";
+"CAST_CONFIRM_DESC" = "Show a confirm alert before casting to prevent accidentally hijacking TV.";
+
+"DISABLE_HINTS" = "Disable hints";
+"DISABLE_HINTS_DESC" = "Disable feature hints from YouTube that usually display when the app is freshly installed.";
+
+"NEW_MINIPLAYER_STYLE" = "New mini player bar style (BigYTMiniPlayer)";
+"NEW_MINIPLAYER_STYLE_DESC" = "App restart is required.";
+
+"HIDE_CAST_BUTTON" = "Hide Cast button";
+"HIDE_CAST_BUTTON_DESC" = "App restart is required.";
+
+"HIDE_NOTIFICATION_BUTTON" = "Hide Notifcation button in the Navigation bar";
+"HIDE_NOTIFICATION_BUTTON_DESC" = "";
+
+"HIDE_SPONSORBLOCK_BUTTON" = "Hide iSponsorBlock button in the Navigation bar";
+"HIDE_SPONSORBLOCK_BUTTON_DESC" = "";
+
+"DISABLE_WIFI_RELATED_SETTINGS" = "Disable Wifi Related Settings";
+"DISABLE_WIFI_RELATED_SETTINGS_DESC" = "Disable Wifi Related Sections (Notfications, Connected apps, Privacy & Live Chat, etc.) in the Settings Menu. App restart is required.";
+
+"YT_RE_EXPLORE" = "Replace Shorts tab with Explore tab (YTReExplore)";
+"YT_RE_EXPLORE_DESC" = "App restart is required.";
+
+"ENABLE_FLEX" = "Enable FLEX";
+"ENABLE_FLEX_DESC" = "Enable FLEX for debugging (not recommended). Leave this off unless you know what you are doing.";
+
+// Version Spoofer
+"APP_VERSION_SPOOFER" = "Enable App Version Spoofer";
+"APP_VERSION_SPOOFER_DESC" = "Enable this to use the Version Spoofer and select your perferred version below. App restart is required.";
+"VERSION_SPOOFER_TITLE" = "Version Spoofer Picker";
