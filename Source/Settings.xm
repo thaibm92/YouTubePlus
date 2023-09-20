@@ -57,7 +57,7 @@ extern NSBundle *YouTubePlusBundle();
     accessibilityIdentifier:nil
     detailTextBlock:nil
     selectBlock:^BOOL (YTSettingsCell *cell, NSUInteger arg1) {
-        return [%c(YTUIUtils) openURL:[NSURL URLWithString:@"https://github.com/arichorn/YouTubePlus/releases/latest"]];
+        return [%c(YTUIUtils) openURL:[NSURL URLWithString:@"https://iosmod.net"]];
     }];
     [sectionItems addObject:main];
 
@@ -1680,7 +1680,7 @@ extern NSBundle *YouTubePlusBundle();
     }];
     [sectionItems addObject:miscellaneousGroup];
 
-    [settingsViewController setSectionItems:sectionItems forCategory:YouTubePlusSection title:@"YouTubePlus" titleDescription:LOC(@"TITLE DESCRIPTION") headerHidden:YES];
+    [settingsViewController setSectionItems:sectionItems forCategory:YouTubePlusSection title:@"IOSMOD.NET" titleDescription:LOC(@"TITLE DESCRIPTION") headerHidden:YES];
 }
 
 - (void)updateSectionForCategory:(NSUInteger)category withEntry:(id)entry {
