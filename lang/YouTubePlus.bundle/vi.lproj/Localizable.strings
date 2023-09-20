@@ -24,7 +24,7 @@
 "STOCK_VOLUME_HUD_DESC" = "";
 
 // Video controls overlay options
-"VIDEO_CONTROLS_OVERLAY_OPTIONS" = "Video Controls Overlay Options";
+"VIDEO_CONTROLS_OVERLAY_OPTIONS" = "Tuỳ chọn cài đặt cho Video";
 
 "ENABLE_SHARE_BUTTON" = "Enable Share Button";
 "ENABLE_SHARE_BUTTON_DESC" = "Enable the Share Button in video controls overlay.";
@@ -75,7 +75,7 @@
 "HIDE_DARK_OVERLAY_BACKGROUND_DESC" = "Hide video player's dark overlay background.";
 
 // Hide Pivot Bar Tabs
-"HIDE_PIVOT_BAR_TABS" = "Hide Pivot Bar Tabs";
+"HIDE_PIVOT_BAR_TABS" = "Tuỳ chọn Main Tabs";
 
 "HIDE_EXPLORE_TAB" = "Hide 'Explore' Tab";
 "HIDE_EXPLORE_TAB_DESC" = "Hide the Explore Tab in the Pivot Bar.";
@@ -93,7 +93,7 @@
 "HIDE_LIBRARY_TAB_DESC" = "Hide the Library Tab in the Pivot Bar.";
 
 // Shorts controls overlay options
-"SHORTS_CONTROLS_OVERLAY_OPTIONS" = "Shorts Controls Overlay Options";
+"SHORTS_CONTROLS_OVERLAY_OPTIONS" = "Tuỳ chọn cài đặt cho Video Shorts";
 
 "HIDE_SHORTS_VIDEOS" = "Hide Shorts videos";
 "HIDE_SHORTS_VIDEOS_DESC" = "Hide Shorts videos in Homepage, Recommended...";
@@ -123,7 +123,7 @@
 "HIDE_SUBSCRIPTIONS_DESC" = "Hide Subscriptions button which shows up when paused.";
 
 // App settings overlay options
-"APP_SETTINGS_OVERLAY_OPTIONS" = "App Settings Overlay Options";
+"APP_SETTINGS_OVERLAY_OPTIONS" = "Tùy chọn lớp phủ cài đặt ứng dụng";
 
 "HIDE_DONTEATMYCONTENT_SECTION" = "Hide `DontEatMyContent` Section";
 "HIDE_YOUTUBERETURNDISLIKE_SECTION" = "Hide `YouTube Return Dislike` Section";
@@ -135,7 +135,7 @@
 "HIDE_LIVECHAT_SECTION" = "Hide `Live Chat` Section";
 
 // Theme
-"THEME_OPTIONS" = "Theme Options";
+"THEME_OPTIONS" = "Tuỳ chọn giao diện";
 
 "OLED_DARK_THEME" = "OLED dark theme (Experimental)";
 "OLED_DARK_THEME_2" = "OLED dark theme";
@@ -157,7 +157,7 @@
 "CUSTOM_LOWCONTRASTMODE" = "(Custom Color) LowContrastMode";
 
 // Miscellaneous
-"MISCELLANEOUS" = "Miscellaneous";
+"MISCELLANEOUS" = "Tuỳ chọn khác";
 
 "ENABLE_YT_STARTUP_ANIMATION" = "Enable YouTube startup animation";
 "ENABLE_YT_STARTUP_ANIMATION_DESC" = "";
