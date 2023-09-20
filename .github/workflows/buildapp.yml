@@ -135,13 +135,7 @@ jobs:
           name: YouTubePlus_${{ env.YOUTUBE_VERSION }}
           path: ${{ github.workspace }}/main/packages/${{ steps.build_package.outputs.package }}
           if-no-files-found: error
-          
-      - name: Prepare Release Notes
-        run: |
-          export TODAY=$(date '+%Y-%m-%d')
-          sed "s/%ytliteplus_version%/${{ inputs.ytliteplus_version }}/g; s/%youtube_version%/${{ inputs.youtube_version }}/g; s/%date%/$TODAY/g" \
-          /Users/runner/work/YouTubePlus/YouTubePlus/.github/RELEASE_TEMPLATE/Release.md > ${{ github.workspace }}/release_notes.md
-          
+         
       - name: Create Release
         id: create_release
         uses: softprops/action-gh-release@v0.1.15
@@ -154,4 +148,3 @@ jobs:
           name: v${{ env.YOUTUBE_VERSION }}-(${{ github.run_number }})
           files: main/packages/*.ipa
           draft: ${{ env.DRAFT }}
-          body_path: ${{ github.workspace }}/release_notes.md
