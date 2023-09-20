@@ -1,6 +1,6 @@
 # YouTubePlus Features
 
-**YTNoModernUI:** This tweak changes and removes some newer UI elements from the app such as Rounded Buttons, Red Progress Bar, Gray Buffer Progress & the v17.38.10 App Version Number. (Tweak made by arichorn)
+YouTubePlus is a Tweak that's Inspired and Based off of both uYouPlus & YouTubeRebornPlus. this YouTube Tweak Includes No Ads, Ability to Hide Pivot Bar Tabs, YouPiP, YouMute, YouQuality, YTVideoOverlay, YTABConfig, Return YouTube Dislike, YTAutoFullscreen, YTNoCommunityPosts, NoYTPremium, YTUHD, YTReExplore, YTNoShorts, YTShortsProgress, YTVersionSpoofer, IAmYouTube, BigYTMiniPlayer, iSponsorBlock, LowContrastMode, YTNoModernUI, old Dark Theme, OLED Dark Theme & much more!
 
 <details>
 <summary>More Features...</summary>
@@ -25,7 +25,7 @@
 
 </details>
 
-# YTLitePlus Release Information
+# YouTubePlus Release Information
 
 Current YouTube IPA: `%youtube_version%` 
 Current App Compatibility: `iOS/iPadOS 14.0` or later
