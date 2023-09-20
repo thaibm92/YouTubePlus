@@ -123,7 +123,7 @@
 "HIDE_SUBSCRIPTIONS_DESC" = "Hide Subscriptions button which shows up when paused.";
 
 // App settings overlay options
-"APP_SETTINGS_OVERLAY_OPTIONS" = "Tùy chọn lớp phủ cài đặt ứng dụng";
+"APP_SETTINGS_OVERLAY_OPTIONS" = "Tùy chọn cài đặt của ứng dụng";
 
 "HIDE_DONTEATMYCONTENT_SECTION" = "Hide `DontEatMyContent` Section";
 "HIDE_YOUTUBERETURNDISLIKE_SECTION" = "Hide `YouTube Return Dislike` Section";
