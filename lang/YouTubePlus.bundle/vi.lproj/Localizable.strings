@@ -122,8 +122,8 @@
 "HIDE_SUPER_THANKS" = "Hide 'Buy Super Thanks' banner";
 "HIDE_SUPER_THANKS_DESC" = "Hide the 'Buy Super Thanks' banner in Shorts.";
 
-"HIDE_SUBSCRIPTIONS" = "Hide Subscriptions button";
-"HIDE_SUBSCRIPTIONS_DESC" = "Hide Subscriptions button which shows up when paused.";
+"HIDE_SUBSCRIPTIONS_TAB" = "Hide Subscriptions button";
+"HIDE_SUBSCRIPTIONS_TAB_DESC" = "Hide Subscriptions button which shows up when paused.";
 
 // App settings overlay options
 "APP_SETTINGS_OVERLAY_OPTIONS" = "Tùy chọn cài đặt của ứng dụng";
