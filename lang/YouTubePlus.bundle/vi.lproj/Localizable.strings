@@ -69,7 +69,7 @@
 "HIDE_RIGHT_PANEL_DESC" = "App restart is required.";
 
 "DONT_EAT_MY_CONTENT" = "Don't eat my content";
-"DONT_EAT_MY_CONTENT_DESC" = "Don't mix my content";
+"DONT_EAT_MY_CONTENT_DESC" = "Prevent the notch/Dynamic Island from munching on 2:1 video content";
 
 "HIDE_HEATWAVES" = "Hide Heatwaves";
 "HIDE_HEATWAVES_DESC" = "Hides the Heatwaves in the video player. App restart is required.";
