@@ -68,6 +68,9 @@
 "HIDE_RIGHT_PANEL" = "Hide the right panel in fullscreen mode";
 "HIDE_RIGHT_PANEL_DESC" = "App restart is required.";
 
+"DONT_EAT_MY_CONTENT" = "Don't eat my content";
+"DONT_EAT_MY_CONTENT_DESC" = "Don't mix my content";
+
 "HIDE_HEATWAVES" = "Hide Heatwaves";
 "HIDE_HEATWAVES_DESC" = "Hides the Heatwaves in the video player. App restart is required.";
 
